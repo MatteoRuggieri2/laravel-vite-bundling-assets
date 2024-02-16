@@ -15,7 +15,7 @@
     </head>
     <body>
         <header>
-            <h1>Laravel | Vite Bundling Assets</h1>
+            <h1 class="title">Laravel | Vite Bundling Assets</h1>
         </header>
     </body>
 </html>
